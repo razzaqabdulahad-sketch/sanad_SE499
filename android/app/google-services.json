@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710796831919",
+    "project_id": "employee-ease-b5437",
+    "storage_bucket": "employee-ease-b5437.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710796831919:android:5e984101eac25d02d4785a",
+        "android_client_info": {
+          "package_name": "com.z.employee_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhECKo6KLoXyXj60tFAQLl0Z1AgvzM35E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
